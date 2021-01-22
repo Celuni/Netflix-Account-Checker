@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
-from secrets import username,password
 #virtualenv venv
 #source venv/bin/activate
 
